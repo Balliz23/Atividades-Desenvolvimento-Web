@@ -1,0 +1,26 @@
+#cabecalho{
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 40px;
+}
+#conteudo{
+    margin-left: 6%;
+    margin-right: 6%;
+}
+body{
+    background-color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#pi{
+    width: 15%;
+    margin-left: 10%;
+}
+#lista{
+    float: left;
+    width: 55%;
+    margin-left: 6%;
+}
+
+#lista img{
+    float: right;
+}

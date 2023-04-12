@@ -1,0 +1,41 @@
+#pinhais{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 45%;
+    text-align: left;
+    background: linear-gradient(to bottom, rgb(231, 231, 235), white,white);
+    border-radius: 20px;
+    box-shadow: 15px 15px 10px rgb(226, 226, 226);
+    border-style: groove;
+    height: 510px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.8em;
+}
+#conteudo{
+    border-style:groove ;
+    margin-top: 20px;
+    height: 425px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#cabecalho{
+    text-align: center;
+    color: rgb(29, 29, 146);
+}
+table{
+    width: 94%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.colum1{
+    color:rgb(62, 62, 226);
+    width: 30%;
+}
+.titulo{
+    background-color: rgb(167, 216, 218);
+    text-align: center;
+    margin-left: 3%;
+    margin-right: 3%;
+}

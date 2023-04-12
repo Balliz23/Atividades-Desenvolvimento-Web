@@ -1,0 +1,34 @@
+#cabecalho{
+margin-left: 15%;
+}
+#titulo{
+    color: orangered;
+}
+#autor{
+    color: yellowgreen;
+}
+#letra_original{
+    float: left;
+    width: 40%;
+    text-align: right;
+    color: darkgray;
+    margin-left: 10%;
+    margin-bottom: 50px;
+}
+#letra_traduzida{
+    float: left;
+    width: 40%;
+    text-align: left;
+    margin-left: 2%;
+    margin-bottom: 50px;
+    color: #888686;
+}
+#video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 20%;
+    border-radius: 5px;
+}
+

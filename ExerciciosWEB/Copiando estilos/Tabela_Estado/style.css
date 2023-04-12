@@ -1,0 +1,50 @@
+body{
+    margin-left: 7%;
+    margin-right: 7%;
+    font-family: 'Lato', sans-serif;
+    background-image: linear-gradient(to bottom, rgb(218,228,173),white,white,white,white,white,white,white) ;
+    background-repeat:no-repeat;
+}
+#titulo{
+    color: #614a13;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.8em;
+}
+table, th, td {
+    border: 1px solid rgba(189,201,180,255);
+    border-collapse: collapse;
+}
+th{
+    background-color: rgba(167,201,65,255);
+    color: white;
+}
+table{
+    width: 100%;
+    height: 580px;
+}
+#estados{
+    width: 60%;
+}
+#cidades{
+    width: 40%;
+}
+.regiao{
+    text-align: center;
+}
+#sudeste{
+    background-color: rgba(223,245,181,255);
+}
+#sul{
+    background-color: rgba(199,230,137,255);
+}
+.estilo{
+    background-color: rgba(235,242,211,255);
+}
+.estilo2{
+    background-color: rgba(248,250,237,255);
+}
+#rodape{
+    text-align: right;
+    font-size: 0.9em;
+    background: none;
+}
